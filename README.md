@@ -1,2 +1,2 @@
 # Programs available:
-#         - PdfMerger(more info in it's folder)
+#         - PdfMerger: https://github.com/sjohanne/sjohannePublic/tree/master/PdfMerger
